@@ -7,7 +7,7 @@ Docker image
 
 ## Run
 ```
-  docker -t -i wonderbeat/yesod /bin/bash
+  docker run -t -i wonderbeat/yesod /bin/bash
 ```
 
 [Docker Hub Page](https://registry.hub.docker.com/u/wonderbeat/yesod/builds_history/53281/)
